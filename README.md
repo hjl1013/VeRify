@@ -8,3 +8,4 @@
 https://www.youtube.com/watch?v=VaWmvZme8hk
 * github :
 https://github.com/Fist-Full-of-Shrimp/FFOS-Unity-VR-Template
+* 헤드셋 일련번호 00497
